@@ -38,7 +38,7 @@
     "typescript"
   ],
   "devDependencies": {
-    "@types/node": "^24.8.1",
+    "@types/node": "^24.9.0",
     "@types/react": "^19.2.2",
     "@types/react-dom": "^19.2.2",
     "esbuild-plugin-preserve-directives": "^0.0.11",
